@@ -1,0 +1,91 @@
+if __name__ == '__main__':
+  mulai()
+###
+for item in anak(tree):
+  jenis = data(item)
+  if jenis == '':
+    pass
+  elif jenis == '':
+    pass
+  elif jenis == '':
+    pass
+###
+kembali = ''
+for item in anak(tree):
+  jenis = data(item)
+  if jenis == '':
+    pass
+  elif jenis == '':
+    pass
+  elif jenis == '':
+    pass
+kembali += f''
+return kembali
+###
+if language == 'py':
+  pass
+elif language == 'ts':
+  pass
+elif language == 'rs':
+  pass
+elif language == 'java':
+  pass
+elif language == 'kt':
+  pass
+elif language == 'go':
+  pass
+elif language == 'rb':
+  pass
+elif language == 'v':
+  pass
+elif language == 'dart':
+  pass
+elif language == 'cpp':
+  pass
+elif language == 'cs':
+  pass
+elif language == 'hs':
+  pass
+elif language == 'clj':
+  pass
+elif language == 'scala':
+  pass
+elif language == 'php':
+  pass
+elif language == 'swift':
+  pass
+elif language == 'elixir':
+  pass
+elif language == 'erlang':
+  pass
+###
+from app.transpiler.zgenerate.refactor.handlers import expression_item
+###
+from app.treeutils import (
+  data, 
+  token, 
+  child1, 
+  child2, 
+  child3, 
+  child4,
+  child,
+  chdata,
+  chtoken,
+  anak, 
+  ispohon, istoken,
+  beranak,
+  sebanyak,
+  jumlahanak, 
+)
+###
+from app.dirutils import (
+  ayah, here, joiner
+)
+disini = here(__file__)
+filename_input = 'bantu_sql'
+filename_input_ext = f'{filename_input}.mk'
+filepath_input = joiner(disini, filename_input_ext)
+###
+{% extends "base.html" %}
+{% block title %}Contact{% endblock title %}
+{% block content %}
